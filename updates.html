@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Updates
-background: '/img/blog1.jpg'
+title: Yemen War Updates
+background: '/img/war.jpg'
 ---
 
-{% for post in site.updates %}
+This page includes links to recent stories, reports, and statistics for the ongoing war on Yemen.
+
+<hr>
+
+{% for post in site.updates reversed %}
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
