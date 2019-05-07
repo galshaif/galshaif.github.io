@@ -20,7 +20,7 @@ background: '/img/Dragon3.jpg'
 * INT93LS: Research Methods in the Social Sciences and Humanities (Summer 2018)  
 
 #### Graduate Teaching Assistant
-* HIST 4c: History of Europe, 1715—Present (Spring 2019)
+* HIST 4C: History of Europe, 1715—Present (Spring 2019)
 * HIST 2A: Ancient History (Winter 2019)
 * HIST 46: History of the Modern Middle East (Fall 2018)
 * HIST 2C: World History, 1700-Present (Fall 2017)
