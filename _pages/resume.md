@@ -6,8 +6,7 @@ background: '/img/Dragon3.jpg'
 ---
 [Download full CV here.](/08-20-2016BORENRESUME.pdf)
 
-<h2 style="text-align: center;"> EDUCATION </h2>
-
+### EDUCATION
 #### University of California, Santa Barbara (UCSB)  
 * PhD Student in History (Modern Middle Middle East) <br>
 * Masters of Arts in Global & International Studies  
@@ -16,7 +15,7 @@ background: '/img/Dragon3.jpg'
 * Bachelors of Arts in Religious Studies
 * Bachelors of Arts in Political Science
 
-<h2 style="text-align: center;"> TEACHING EXPERIENCE </h2> 
+### TEACHING EXPERIENCE
 #### Instructor of Record
 * INT93LS: Research Methods in the Social Sciences and Humanities (Summer 2019)
 * INT93LS: Research Methods in the Social Sciences and Humanities (Summer 2018)  
