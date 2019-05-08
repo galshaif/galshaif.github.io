@@ -4,11 +4,13 @@ title: Curriculum Vitae
 description:
 background: '/img/Dragon3.jpg'
 ---
-\*Download full CV here.
-### EDUCATION
+[Download full CV here.](/08-20-2016BORENRESUME.pdf)
+
+<h2 style="text-align: center;"> EDUCATION </h2>
+
 #### University of California, Santa Barbara (UCSB)  
-* PhD Student in History (Modern Middle Middle East)  
-* Masters of Arts in Global & International Studies  
+PhD Student in History (Modern Middle Middle East) <br>
+Masters of Arts in Global & International Studies  
 
 #### California State University, Bakersfield (CSUB)
 * Bachelors of Arts in Religious Studies
@@ -71,15 +73,3 @@ background: '/img/Dragon3.jpg'
 
 ### LANGUAGE
 * Native Arabic Speaker
-
-
-
-
-
-
-
-
-
-
-
-<h2> <p style="text-align: center;"> EDUCATION </p>  

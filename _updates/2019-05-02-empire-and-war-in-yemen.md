@@ -8,4 +8,4 @@ background: '/img/war.jpg' # notice how the image referenced is in your project'
 
 A Conversation with Afrah Nasser, Stacey Philbrick Yadav, and Adam Hanieh on The Dig Podcast
 
-[Click here](http://www.jadaliyya.com/Details/38611/Empire-and-the-War-in-Yemen-A-Conversation-with-Afrah-Nasser,-Stacey-Philbrick-Yadav,-Adam-Hanieh-on-The-Dig-Podcast?fbclid=IwAR0JJdxySVnkDp6soYLrEQsqB1HKvVLARy19HrNYOMxnESuu_F_HtlfgHtM)  
+[Click here to listen.](http://www.jadaliyya.com/Details/38611/Empire-and-the-War-in-Yemen-A-Conversation-with-Afrah-Nasser,-Stacey-Philbrick-Yadav,-Adam-Hanieh-on-The-Dig-Podcast?fbclid=IwAR0JJdxySVnkDp6soYLrEQsqB1HKvVLARy19HrNYOMxnESuu_F_HtlfgHtM)  
