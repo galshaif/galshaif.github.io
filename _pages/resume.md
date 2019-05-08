@@ -9,14 +9,14 @@ background: '/img/Dragon3.jpg'
 <h2 style="text-align: center;"> EDUCATION </h2>
 
 #### University of California, Santa Barbara (UCSB)  
-PhD Student in History (Modern Middle Middle East) <br>
-Masters of Arts in Global & International Studies  
+* PhD Student in History (Modern Middle Middle East) <br>
+* Masters of Arts in Global & International Studies  
 
 #### California State University, Bakersfield (CSUB)
 * Bachelors of Arts in Religious Studies
 * Bachelors of Arts in Political Science
 
-### TEACHING EXPERIENCE
+<h2 style="text-align: center;"> TEACHING EXPERIENCE </h2> 
 #### Instructor of Record
 * INT93LS: Research Methods in the Social Sciences and Humanities (Summer 2019)
 * INT93LS: Research Methods in the Social Sciences and Humanities (Summer 2018)  
