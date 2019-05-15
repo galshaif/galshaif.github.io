@@ -4,7 +4,7 @@ title: Curriculum Vitae
 description:
 background: '/img/Dragon3.jpg'
 ---
-[Download full CV here.](/08-20-2016BORENRESUME.pdf)
+[Download full CV here.](/04-2019GokhCV.pdf)
 
 ### EDUCATION
 #### University of California, Santa Barbara (UCSB)  
